@@ -3,7 +3,6 @@ order: 800
 expanded: true
 ---
 
-
 # I-Rapha View™
 
 I-Rapha View™는 의료영상 전송장치에서 전송된 DICOM 형태의 영상을 웹 표준방식(HTML5)을 이용하여 조회를 할 수 있게 해 주는 의료영상 판독 웹어플리케이션입니다.

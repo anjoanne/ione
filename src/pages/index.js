@@ -23,7 +23,7 @@ function HomepageHeader() {
             to="/docs/intro">
             I-one Tutorial
           </Link>
-          <Translate> I-one Tutorial</Translate>
+          <Translate> </Translate>
         </div>
       </div>
     </header>

@@ -1,5 +1,3 @@
-import Image from '@theme/IdealImage';
-import thumbnail from './report.png';
 
 // your React 
 
